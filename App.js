@@ -14,12 +14,12 @@ function App() {
         <Stack.Screen
           name="Search"
           component={SearchScreen}
-          options={{ title: "Business Search" }}
+          options={{ title: "Search For Food" }}
         />
         <Stack.Screen
           name="ResultsShow"
           component={ResultScreen}
-          options={{ title: "Business Search" }}
+          options={{ title: "Other Images" }}
         />
       </Stack.Navigator>
     </NavigationContainer>

@@ -29,3 +29,6 @@
 4. Get search results, call setter
 5. Updated state causes component to rerender
 6. No we have something to show the user.
+
+(https://github.com/ahmetizgi84/Expo-Food-App/tree/master/assets/anasayfa.png?raw=true)
+(https://github.com/ahmetizgi84/Expo-Food-App/tree/master/assets/detay.png?raw=true)
