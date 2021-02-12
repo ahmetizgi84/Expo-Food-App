@@ -22,7 +22,7 @@ export default () => {
   };
 
   useEffect(() => {
-    searchApi("kebap");
+    searchApi("");
   }, []);
 
   return [searchApi, results, errorMessage];
