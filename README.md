@@ -30,6 +30,6 @@
 5. Updated state causes component to rerender
 6. No we have something to show the user.
 
-| anasayfa                                                                                                | detay                                                                                                |
-| ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| ![Expo-Food-App](https://github.com/ahmetizgi84/Expo-Food-App/tree/master/assets/anasayfa.png?raw=true) | ![Expo-Food-App](https://github.com/ahmetizgi84/Expo-Food-App/tree/master/assets/detay.png?raw=true) |
+| anasayfa                                                                                                     | detay                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
+| ![Expo-Food-App](https://github.com/ahmetizgi84/Expo-Food-App/blob/master/screenshots/anasayfa.png?raw=true) | ![Expo-Food-App](https://github.com/ahmetizgi84/Expo-Food-App/blob/master/screenshots/detay.png?raw=true) |
